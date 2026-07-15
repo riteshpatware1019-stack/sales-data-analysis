@@ -1,69 +1,98 @@
-# Employee-Analytics-System
-A full-stack Employee Analytics &amp; Management System built with Python, MySQL, Pandas, Matplotlib, and Streamlit. Features employee CRUD operations, data analysis, interactive dashboards, and visualizations with a clean, modular project structure.
-
-# Employee Analytics & Management System
-
-## 📌 Project Overview
-
-Employee Analytics & Management System is a full-stack data analytics project that combines employee management with business intelligence. The application allows users to manage employee records, analyze workforce data, and visualize insights through an interactive Streamlit dashboard.
-
-This project demonstrates practical skills in Python, MySQL, Pandas, Matplotlib, Streamlit, SQL, and Git/GitHub.
-
-## 🚀 Features
-
-* Employee CRUD Operations (Create, Read, Update, Delete)
-* MySQL Database Integration
-* Data Cleaning and Analysis with Pandas
-* Employee Analytics Dashboard
-* Interactive Streamlit Web Application
-* Data Visualization using Matplotlib
-* Search and Filter Employees
-* Department-wise Analytics
-* Salary Analysis
-* Download Reports (Planned)
+## Sales Data Analytics Dashboard using Python, Pandas, Matplotlib & Streamlit.
 
 
-## 🛠️ Technologies Used
+# 📊 Sales Data Analytics Dashboard
 
-* Python
-* MySQL
-* Pandas
-* Matplotlib
-* Streamlit
-* Git & GitHub
+An interactive Sales Data Analytics Dashboard built using **Python, Pandas, Matplotlib, and Streamlit**. This project analyzes sales data to uncover business insights, identify trends, and visualize key performance indicators through an interactive dashboard.
 
 
-## 📊 Planned Dashboard
+## 🚀 Project Overview
 
-* Total Employees
-* Total Departments
-* Average Salary
-* Highest Salary
-* Lowest Salary
-* Department-wise Employee Count
-* Salary Distribution
-* Gender Distribution
-* Employee List
-* Interactive Charts
+The goal of this project is to perform end-to-end sales data analysis, including:
 
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Data Visualization
+- Interactive Dashboard Development
 
-## 🎯 Learning Objectives
-
-* Build a modular Python application
-* Practice SQL and database design
-* Perform exploratory data analysis (EDA)
-* Create meaningful visualizations
-* Develop an interactive Streamlit application
-* Use Git and GitHub for version control
+This project demonstrates a complete data analytics workflow from raw data to actionable business insights.
 
 
-## 📌 Project Status
+## 🛠️ Tech Stack
 
-🚧 Currently under development. New features and improvements are being added regularly.
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Streamlit
+
+
+## 📌 Features
+
+- Data Cleaning and Preprocessing
+- Missing Value Handling
+- Duplicate Removal
+- Feature Engineering
+- Sales Trend Analysis
+- Category-wise Sales Analysis
+- City-wise Sales Analysis
+- Customer Insights
+- Interactive Filters
+- KPI Dashboard
+- Download Processed Data
+
+
+## 📊 Dashboard KPIs
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Average Sales
+- Average Discount
+- Total Customers
+
+
+## 📈 Visualizations
+
+- Monthly Sales Trend
+- Sales by Category
+- Profit by Category
+- Sales by City
+- Top Products
+- Payment Mode Distribution
+- Rating Distribution
+- Sales vs Profit Scatter Plot
+
+
+## 💡 Business Insights
+
+- Identify top-performing products.
+- Compare sales across categories.
+- Track monthly sales trends.
+- Analyze customer purchasing behavior.
+- Discover high-performing cities.
+- Measure overall business performance.
+
+
+## 📚 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Dashboard Development
+- Python Programming
+- Pandas
+- NumPy
+- Matplotlib
+- Streamlit
+- Git & GitHub
 
 
 ## 👨‍💻 Author
 
 **Ritesh Patware**
 
-If you found this project helpful, feel free to ⭐ the repository.
+Aspiring Data Analyst | Python | SQL | Power BI | Streamlit
+
+---
