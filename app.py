@@ -57,7 +57,7 @@ col4.metric("Average Sales", f"${avg_sales:,.2f}")
 
 
 # Sales by Category
-fig,  ax = plt.subplots(figsize=(8,5))
+fig,  ax = plt.subplots(figsize=(6,5))
 filtered.groupby("Category")["Sales"].sum().plot(
     kind="bar",
     ax=ax
